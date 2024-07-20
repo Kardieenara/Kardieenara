@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kardieenara
-- 👀 I’m interested in Lain
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
