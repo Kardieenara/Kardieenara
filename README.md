@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kardieenara
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python and AI
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Danny
 - ⚡ Fun fact: ...
 
 <!---
